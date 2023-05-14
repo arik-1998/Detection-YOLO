@@ -1,0 +1,6 @@
+train: C:/Users/user/Desktop/Detection_AI/train
+val: C:/Users/user/Desktop/Detection_AI/val
+
+nc: 1
+
+names: ["building"]
